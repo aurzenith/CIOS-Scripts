@@ -1,3 +1,5 @@
+# Version 0.1
+
 from netmiko import ConnectHandler
 
 menu = -1
